@@ -25,8 +25,8 @@ Experienced IT professional with 7+ years in network troubleshooting and technic
 - 🏆 **CompTIA A+** - Hardware, OS, and troubleshooting expertise
 - 🌐 **CompTIA Network+** - TCP/IP, routing, switching, and network security
 - 🛡️ **CompTIA Security+** - Risk assessment, incident response, and security controls
-- 🔧 **CompTIA IT Operations Specialist (CIOS)** - Stackable certification
-- 🔒 **CompTIA Secure Infrastructure Specialist (CSIS)** - Stackable certification
+- 🔧 **CompTIA IT Operations Specialist (CIOS)** - Advanced operational and systems management
+- 🔒 **CompTIA Secure Infrastructure Specialist (CSIS)** - Infrastructure security and hardening
 - 📚 **Currently studying:** CCNA (Cisco Certified Network Associate)
 
 ## 📫 Connect with Me
