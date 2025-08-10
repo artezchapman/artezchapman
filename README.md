@@ -13,7 +13,7 @@ Experienced IT professional with 7+ years in network troubleshooting and technic
 ## 🏗️ Featured Projects
 - 🖥️ **[Network Troubleshooting Toolkit](https://github.com/artezchapman/Network-Troubleshooting-Toolkit)** - PowerShell tools for network diagnostics
 - ⚡ **PowerShell Automation Scripts** (coming soon)
-- 🏠 **Home Lab Documentation** (coming soon)
+- 🏠 **Home Lab Documentation** 
 
 ## 💼 Experience
 **Network Support Specialist** at Charter Communications
